@@ -1,3 +1,3 @@
 # mysql
 
-test表不需要
+test表和项目没有关系
